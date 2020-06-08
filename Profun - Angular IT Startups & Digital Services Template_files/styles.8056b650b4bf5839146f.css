@@ -15430,7 +15430,7 @@ label {
     padding-top: 40px;
 }
 .solutions-box svg {
-    width: 42px;
+    width: 33px;
 }
 section.aboutInner {
     margin-top: 60px;
@@ -17222,7 +17222,7 @@ section.aboutInner {
     position: relative;
     z-index: 1;
     margin-bottom: 30px;
-    padding-left: 20px;
+    padding-left: 30px;
 }
 .solutions-box .icon i {
     font-size: 45px;
