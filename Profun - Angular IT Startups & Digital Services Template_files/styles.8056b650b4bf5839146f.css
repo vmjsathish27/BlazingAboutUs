@@ -11538,7 +11538,7 @@ label {
 .section-title h2 {
     margin-top: -8px;
     margin-bottom: 0;
-    font-size: 48px;
+    font-size: 42px;
     font-weight: 600;
     text-transform: capitalize;
     line-height: 1.4;
@@ -15397,19 +15397,64 @@ label {
     top: 0;
 }
 .page-title-area {
-    position: relative;
-    z-index: 1;
-    background: url(banner-bg1.c8e7f324943288541bc1.jpg) right top no-repeat;
-    padding-top: 190px;
-    padding-bottom: 100px;
+    position: relative; 
+    z-index: 1;    
+    padding-top: 110px;   
     text-align: center;
     border-bottom: 1px dashed #f1f1f1;
 }
 .page-title-area h2 {
-    font-size: 30px;
+    font-size: 32px;
     font-weight: 700;
     margin: 0;
 }
+
+
+
+
+.PgaeTitle {
+    padding: 200px 0px;
+    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1591610253phpXLqMdY.jpg?lightbox[iframe]=true&lightbox[width]=800&lightbox[height]=600);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.PgaeTitle h2 {
+    font-size: 52px;
+    font-weight: 700;
+    margin: 0;
+	text-align: center;
+}
+
+.about-image {
+    padding-top: 40px;
+}
+.solutions-box svg {
+    width: 42px;
+}
+section.aboutInner {
+    margin-top: 60px;
+    background: linear-gradient(135deg, #23bdb8 0, #43e794 100%);
+    padding: 75px 0px;
+}
+.solutions-box a {
+    background-color: transparent;
+    color: #000;
+    display: inline-block;
+    transition: 0.5s;
+    text-decoration: none;
+}
+.solutions-box a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+.solutions-box p {
+    color: #fff;
+    line-height: 1.8;
+}
+
+
+
 .faq-accordion {
     box-shadow: 0 0 18px 0 rgba(0, 0, 0, 0.08);
     padding: 60px;
