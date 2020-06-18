@@ -14337,6 +14337,7 @@ label {
     position: relative;
     margin-top: -120px;
     background: 0 0;
+	padding-bottom: 70px;
 }
 .partner-section h5 {
     font-size: 20px;
@@ -15399,9 +15400,9 @@ label {
 .page-title-area {
     position: relative; 
     z-index: 1;    
-    padding-top: 110px;   
+    padding-top: 120px;   
     text-align: center;
-    border-bottom: 1px dashed #f1f1f1;
+    
 }
 .page-title-area h2 {
     font-size: 32px;
@@ -15414,7 +15415,7 @@ label {
 
 .PgaeTitle {
     padding: 200px 0px;
-    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1591610253phpXLqMdY.jpg?lightbox[iframe]=true&lightbox[width]=800&lightbox[height]=600);
+    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1592493430phpB1PNDA.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -15423,7 +15424,7 @@ label {
     font-size: 52px;
     font-weight: 700;
     margin: 0;
-	text-align: center;
+	text-align: right;
 }
 
 .about-image {
@@ -23846,10 +23847,11 @@ section.aboutInner {
     }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
+	
     .section-title h2 {
         font-size: 25px;
     }
-    .single-box p {
+    .single-box p {		
         font-size: 13px;
     }
     .iot-cta-area {
